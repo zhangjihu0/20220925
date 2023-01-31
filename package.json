@@ -1,0 +1,17 @@
+{
+  "name": "20220925",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vitejs/plugin-react": "^3.0.1",
+    "path": "^0.12.7",
+    "vite": "^4.0.4"
+  }
+}
